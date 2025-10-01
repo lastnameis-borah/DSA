@@ -17,6 +17,8 @@ Higher the number of values, higher will be the number of operations (one operat
     <img src="img/time_complexity.png" alt="example" width="200">
 </p>
 
+</br>
+Time complexity becomes more and more relevant when number of values increases.
 
 ## Big O Notation
 
