@@ -26,5 +26,5 @@ It is written as $O(n)$ , where '$n$' is the number of values.
 
 <table>
     <tr><th>Col 1</th><th>Col 2</th></tr>
-    <tr><td colspan="2">Spans both</td></tr>
+    <tr><td>Spans both</td></tr>
 </table>
