@@ -8,4 +8,4 @@ But, this will vary depending on the programming language and the computer you'r
 </br>
 That's why use something more abstract (than runtime) called **time complexity**.
 
-<img src="img/time_complexity.png" alt="example" width="400">
+<img src="img/time_complexity.png" alt="example" width="200">
