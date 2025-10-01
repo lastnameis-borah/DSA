@@ -10,8 +10,9 @@ That's why use something more abstract (than runtime) called **time complexity**
 
 </br>
 Relation between time and number of values is linear:</br>
-Higher the number of values, higher will be the number of operations (one operation == one iteration)
+Higher the number of values, higher will be the number of operations (one operation == one iteration) and higher will be the time required.
 
+</br>
 <p align="center">
     <img src="img/time_complexity.png" alt="example" width="200">
 </p>
@@ -21,4 +22,9 @@ Higher the number of values, higher will be the number of operations (one operat
 
 Big O notation is used specifically to find the worst case time complexity for an algorithm.</br>
 </br>
-It is written as $O(n)$ , where 'n' is the number of values
+It is written as $O(n)$ , where '$n$' is the number of values.
+
+<table>
+    <tr><th>Col 1</th><th>Col 2</th></tr>
+    <tr><td colspan="2">Spans both</td></tr>
+</table>
