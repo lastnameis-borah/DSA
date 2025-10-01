@@ -25,6 +25,6 @@ Big O notation is used specifically to find the worst case time complexity for a
 It is written as $O(n)$ , where '$n$' is the number of values.
 
 <table>
-    <tr><th>Col 1</th><th>Col 2</th></tr>
-    <tr><td>Spans both</td></tr>
+    <tr><th>time Complexity</th><th>Algorithm</th></tr>
+    <tr><td>$O(n)$</td><td>No matter the size of the array, an element can be looked up directly, it just requires one operation.</td></tr>
 </table>
