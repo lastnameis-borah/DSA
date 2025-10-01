@@ -25,6 +25,8 @@ Big O notation is used specifically to find the worst case time complexity for a
 It is written as $O(n)$ , where '$n$' is the number of values.
 
 <table>
-    <tr><th>time Complexity</th><th>Algorithm</th></tr>
-    <tr><td>$O(n)$</td><td>No matter the size of the array, an element can be looked up directly, it just requires one operation.</td></tr>
+    <tr><th>Time Complexity</th><th>Algorithm</th></tr>
+    <tr><td>$O(1)$</td><td>No matter the size of the array, an element can be looked up directly, it just requires one operation (indexing). Eg: print(arr[5])</td></tr>
+    <tr><td>$O(n)$</td><td>The algorithm must do $n$ operations in an array with $n$ values to find the lowest value, because the algorithm must compare each value one time. Eg: Finding the lowest number in an array</td></tr>
+    <tr><td>$O(n^2)$</td><td>Large data sets slows down these algorithms significantly. With just an increase in n from 10 to 20 values, the number of operations can increase polynomially Eg: Bubble sort, Selection sort and Insertion sort </td></tr>
 </table>
