@@ -18,13 +18,13 @@ Higher the number of values, higher will be the number of operations (one operat
 </p>
 
 </br>
-Time complexity becomes more and more relevant when number of values increases.
+**Time complexity becomes more and more relevant when number of values increases.**
 
 ## Big O Notation
 
 Big O notation is used specifically to find the worst case time complexity for an algorithm.</br>
 </br>
-It is written as $O(n)$ , where '$n$' is the number of values.
+It is written as $O(n)$ , where $'n'$ is the number of values.
 
 <table>
     <tr><th>Time Complexity</th><th>Algorithm</th></tr>
